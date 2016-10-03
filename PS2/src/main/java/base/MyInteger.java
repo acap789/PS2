@@ -78,3 +78,5 @@ public class MyInteger {
 		return Equals(n.getValue());
 	}
 }
+
+
